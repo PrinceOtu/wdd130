@@ -13,7 +13,6 @@ header{
 h1, h2, h3{
   font-size: 24px;
   color:#ACF7C1 ;
-  text-align: center;
   margin-bottom: 20px;
 }
 footer.sociallinks{
@@ -46,11 +45,12 @@ footer .sociallinks img{
   width: 200px;
   margin: 10px;
 }
+.hero img{
+  width: 300px;
+  height: auto;
+}
 .social media icon{
  text-decoration: none;
-}
-.history{
-  float: right;
 }
 .body{
   font-family: "Roboto", sans-serif;
