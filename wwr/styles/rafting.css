@@ -52,5 +52,10 @@ footer .sociallinks img{
 .history{
   float: right;
 }
+.body{
+  font-family: "Roboto", sans-serif;
+  color: #857C8D;
+  margin: auto;
+}
 
 
