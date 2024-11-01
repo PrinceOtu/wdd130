@@ -335,3 +335,64 @@ footer .sociallinks p {
     width: 100%;
   }
 }
+
+/* Your base styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header, footer {
+    /* Your header and footer styles */
+}
+
+nav {
+    /* Your navigation styles */
+}
+
+/* Hero section */
+.hero {
+    text-align: center;
+    background-image: url('hero-image.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 100px 0;
+}
+
+.hero h1 {
+    font-size: 48px;
+}
+
+.cta-button {
+    /* Your CTA button styles */
+}
+
+/* About section */
+.about {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+}
+
+.about-image img {
+    width: 50%;
+}
+
+/* Offerings section */
+.offerings {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+
+.offering {
+    text-align: center;
+}
+
+/* Newsletter section */
+.newsletter {
+    text-align: center;
+    padding: 50px;
+}
